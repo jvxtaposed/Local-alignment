@@ -1,0 +1,4 @@
+max score of the best local alignment is: 9.0
+length of the best local alignment is: 9
+<~*~A1: ~*~> TCTGTAATG
+<~*~A2: ~*~> TCTGTAATG

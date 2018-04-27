@@ -1,0 +1,1000 @@
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 635.0
+length of the best local alignment is: 1363
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 657.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1338
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1360
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1341
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1339
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 638.0
+length of the best local alignment is: 1360
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 656.0
+length of the best local alignment is: 1341
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 634.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 656.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 660.0
+length of the best local alignment is: 1337
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1361
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1335
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1360
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 656.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 657.0
+length of the best local alignment is: 1333
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1360
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 636.0
+length of the best local alignment is: 1362
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 638.0
+length of the best local alignment is: 1361
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 637.0
+length of the best local alignment is: 1363
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 657.0
+length of the best local alignment is: 1341
+max score of the best local alignment is: 638.0
+length of the best local alignment is: 1361
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1338
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 657.0
+length of the best local alignment is: 1340
+max score of the best local alignment is: 656.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 657.0
+length of the best local alignment is: 1340
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 638.0
+length of the best local alignment is: 1361
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 636.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 638.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 636.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 656.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 635.0
+length of the best local alignment is: 1363
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1360
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 658.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 638.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 634.0
+length of the best local alignment is: 1365
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 636.0
+length of the best local alignment is: 1364
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 656.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 656.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1340
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 638.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1360
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1335
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 652.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 638.0
+length of the best local alignment is: 1361
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1344
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 636.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1343
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 650.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1349
+max score of the best local alignment is: 628.0
+length of the best local alignment is: 1371
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 643.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1351
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 649.0
+length of the best local alignment is: 1340
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1342
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 655.0
+length of the best local alignment is: 1345
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1355
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 645.0
+length of the best local alignment is: 1353
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 634.0
+length of the best local alignment is: 1362
+max score of the best local alignment is: 644.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 647.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1354
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 639.0
+length of the best local alignment is: 1361
+max score of the best local alignment is: 651.0
+length of the best local alignment is: 1348
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1358
+max score of the best local alignment is: 653.0
+length of the best local alignment is: 1346
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1352
+max score of the best local alignment is: 642.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1357
+max score of the best local alignment is: 648.0
+length of the best local alignment is: 1347
+max score of the best local alignment is: 658.0
+length of the best local alignment is: 1337
+max score of the best local alignment is: 646.0
+length of the best local alignment is: 1350
+max score of the best local alignment is: 641.0
+length of the best local alignment is: 1359
+max score of the best local alignment is: 640.0
+length of the best local alignment is: 1356
+max score of the best local alignment is: 654.0
+length of the best local alignment is: 1344

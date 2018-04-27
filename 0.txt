@@ -1,0 +1,4 @@
+max score of the best local alignment is: 56.0
+length of the best local alignment is: 142
+21104 base pairs clipped from the beginning of A1, 3772 base pairs clipped from the end<~*~A1: ~*~> TGTCCTACGC---TAGCC--G-CTAATG-GTATCGAAC--CC-TGTGTTTCCCGCGAGCAAT--CGTTATGAGCG---AT-GGGACCTCATCCCGGATTAGGATACTTCACGCTTACGAACTCTCAGGGAC--AGTTCCGAC
+<~*~A2: ~*~> TGT-CTAC-CATATA-CCTGGTC--ATGTG-A-C-AACAGCCA--TG-TT--C-CGAG---TGGC----TGAGCGCTT-TC--GACCTCATCCCGGATTAGGATACTTCACGCTTACGAACTCTCAGGGACAGAGTTCCG-C3531 base pairs clipped from the beginning of A2, 21352 base pairs clipped from the end
